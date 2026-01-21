@@ -3,3 +3,8 @@
 __pycache__/
 .eggs/
 arkive.egg-info/
+
+build/
+my_text_*/
+test*
+librispeech*
